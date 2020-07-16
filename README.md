@@ -1,7 +1,7 @@
 [![python3](https://img.shields.io/badge/python3-v3.6-green?style=for-the-badge&logo=python)](https://www.python.org)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-purple.svg)](http://www.gnu.org/licenses/gpl-3.0)
-[![GitHub followers](https://img.shields.io/github/followers/awnonbhowmik?label=Follow&style=social)](https://github.com/awnonbhowmik?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/awnonbhowmik/MES.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/awnonbhowmik/MES/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/7enTropy7?label=Follow&style=social)](https://github.com/7enTropy7?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/awnonbhowmik/MES.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/awnonbhowmik/MES/stargazers/)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Unnikrishnan%20Menon-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/unnikrishnan-menon-aa013415a/) [![Linkedin](https://img.shields.io/badge/Linkedin-Awnon%20Bhowmik-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/awnon-bhowmik-13a5a013b/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACIUlr4BQG5MmK7AYfJbU5Zaacunw1qLanM)
 
